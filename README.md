@@ -137,6 +137,7 @@ A curated collection of Claude Skills, resources, and tools.
 | **brainstorming** | Transform rough ideas into designs through structured questioning | Community |
 | **ship-learn-next** | Iterate on what to build/learn based on feedback loops | Community |
 
+| **linkedin-growth** | Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests. | [Linked API](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin-growth) |
 ### Game Development
 
 | Skill | Description | Author/Link |
