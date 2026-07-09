@@ -137,6 +137,7 @@ A curated collection of Claude Skills, resources, and tools.
 | **brainstorming** | Transform rough ideas into designs through structured questioning | Community |
 | **ship-learn-next** | Iterate on what to build/learn based on feedback loops | Community |
 
+| **linkedin-skills** | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. | [Linked API](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) |
 ### Game Development
 
 | Skill | Description | Author/Link |
