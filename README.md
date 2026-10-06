@@ -177,6 +177,9 @@ DevOps-focused skills marketplace covering:
 - GitOps workflows
 - Monitoring/observability
 
+### [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop)
+Free MIT skill library. 61 specialist skill folders and one chief of staff, with a deterministic intake router. Version 0.53. Each employee is a SKILL.md folder that can be copied into a coding agent.
+
 ### [claude-starter](https://github.com/search?q=claude-starter+skills)
 Production-ready Claude Code configuration with 40 auto-activating skills across 8 domains, TOON format support for 30-60% token savings.
 
