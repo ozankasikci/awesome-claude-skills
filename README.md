@@ -124,6 +124,7 @@ A curated collection of Claude Skills, resources, and tools.
 | **brand-guidelines** | Apply brand colors and typography to artifacts | Official |
 | **skill-creator** | Interactive guidance for creating new skills | Official |
 | **template-skill** | Basic template for new skills | Official |
+| **SPECTER** | Negotiation preparation and difficult-conversation drafts with evidence checks | [YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter) |
 
 ### Productivity & Utilities
 
